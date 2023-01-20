@@ -26,6 +26,11 @@ I'm passionate about building scalable and fast applications with great technolo
 :rocket: https://places.colonkoded.com/
 
 
+*LEARNING*
+
+:books: Python, Docker
+
+
 
 *SOCIAL*
 
