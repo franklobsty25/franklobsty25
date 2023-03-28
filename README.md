@@ -28,7 +28,7 @@ I'm passionate about building scalable and fast applications with great technolo
 
 *LEARNING*
 
-:books: Python, Docker
+:books: DevOps
 
 
 
