@@ -30,6 +30,8 @@ I'm passionate about building scalable and fast applications with great technolo
 
 :books: DevOps
 
+:books: Solidity
+
 
 
 *SOCIAL*
