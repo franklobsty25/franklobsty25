@@ -43,8 +43,6 @@ I'm passionate about building scalable and fast applications with great technolo
 
 :email: frankkodie@yahoo.com
 
-:telephone_receiver: +233247202968
-
 
 
 
