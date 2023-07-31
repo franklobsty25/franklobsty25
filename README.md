@@ -21,7 +21,7 @@ I'm passionate about building scalable and fast applications with great technolo
 
 :rocket: https://play.google.com/store/apps/details?id=com.trea.trea_host_gh
 
-:rocket: https://tailoringhub.colonkoded.com/
+:rocket: https://frail-petticoat-elk.cyclic.app/login.html
 
 :rocket: https://places.colonkoded.com/
 
