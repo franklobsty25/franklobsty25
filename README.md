@@ -1,4 +1,4 @@
-I am a graduate from the University for Development Studies with a bachelor degree in Computer Science. I have three plus(3+) years of experience in web development and two(2) years of experience in mobile development.
+I am a graduate from the University for Development Studies with a bachelor degree in Computer Science. I have three plus(3+) years of experience in web development and two(2+) years of experience in mobile development.
 I'm passionate about building scalable and fast applications with great technologies and experiences. I excel at working with stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish. My goal is to excel in whatever I do.
 
 
@@ -6,9 +6,9 @@ I'm passionate about building scalable and fast applications with great technolo
 
 *LANGUAGES*
 
-:boom: Dart, HTML5, JavaScript, PHP, SQL, TypeScript
+:boom: Dart, HTML5, JavaScript, PHP, Python, SQL, TypeScript
 
-*TECHNOLOGIES*
+*FRAMEWORKS*
 
 :boom: Angular, API, Bootstrap, ExpressJS, Flutter, Json, Laravel, NestJS, ReactJS
 
@@ -16,14 +16,24 @@ I'm passionate about building scalable and fast applications with great technolo
 
 :boom: MySQL, Postgres, MongoDB
 
+*WORKING EXPERIENCES*
+
+:man_office_worker: I am currently working with Bento Africa
+
+:man_office_worker: I worked with Trea Digital
+
+:man_office_worker: I worked as a Freelancer
+
 
 *ACHIEVEMENTS*
+
+:rocket: https://www.bento.africa/
 
 :rocket: https://play.google.com/store/apps/details?id=com.trea.trea_host_gh
 
 :rocket: https://frail-petticoat-elk.cyclic.app/login.html
 
-:rocket: https://colorful-goat-garters.cyclic.app/api-docs/
+:rocket: https://tricky-long-johns-wasp.cyclic.cloud/
 
 
 *LEARNING*
@@ -37,6 +47,8 @@ I'm passionate about building scalable and fast applications with great technolo
 *SOCIAL*
 
 :star: https://www.linkedin.com/in/frank-kodie-9957b42a/
+
+:star: https://twitter.com/kodieadu
 
 
 *CONTACT*
