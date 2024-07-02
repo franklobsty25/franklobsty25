@@ -1,4 +1,4 @@
-I am a graduate from the University for Development Studies with a bachelor degree in Computer Science. I have three plus(4+) years of experience in web development and two(3+) years of experience in mobile development.
+I am a graduate from the University for Development Studies with a bachelor degree in Computer Science. I have four plus(4+) years of experience in web development and three(3) years of experience in mobile development.
 I'm passionate about building scalable and fast applications with great technologies and experiences. I excel at working with stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish. My goal is to excel in whatever I do.
 
 
