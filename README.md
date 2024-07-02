@@ -1,4 +1,4 @@
-I am a graduate from the University for Development Studies with a bachelor degree in Computer Science. I have three plus(3+) years of experience in web development and two(2+) years of experience in mobile development.
+I am a graduate from the University for Development Studies with a bachelor degree in Computer Science. I have three plus(4+) years of experience in web development and two(3+) years of experience in mobile development.
 I'm passionate about building scalable and fast applications with great technologies and experiences. I excel at working with stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish. My goal is to excel in whatever I do.
 
 
@@ -10,7 +10,7 @@ I'm passionate about building scalable and fast applications with great technolo
 
 *FRAMEWORKS*
 
-:boom: Angular, API, Bootstrap, ExpressJS, Flutter, Json, Laravel, NestJS, ReactJS
+:boom: Angular, API, Bootstrap, ExpressJS, Flutter, Json, Laravel, NodeJS, NestJS, ReactJS
 
 *DATABASES*
 
@@ -18,14 +18,16 @@ I'm passionate about building scalable and fast applications with great technolo
 
 *WORKING EXPERIENCES*
 
-:man_office_worker: I am currently working with Bento Africa
+:man_office_worker: I am currently working with Bento Africa as a Backend Engineer
 
-:man_office_worker: I worked with Trea Digital
+:man_office_worker: I worked with Trea Digital as a Mobile developer
 
 :man_office_worker: I worked as a Freelancer
 
+:man_office_worker: I worked with National Service as a System Administrator
 
-*ACHIEVEMENTS*
+
+*PORTFOLIOS*
 
 :rocket: https://www.bento.africa/
 
@@ -35,10 +37,12 @@ I'm passionate about building scalable and fast applications with great technolo
 
 :rocket: https://tricky-long-johns-wasp.cyclic.cloud/
 
+:rocket: http://www.hidayapharm.com/
+
 
 *LEARNING*
 
-:books: DevOps
+:books: Mastering DevOps
 
 :books: Solidity
 
