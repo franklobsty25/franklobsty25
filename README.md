@@ -33,9 +33,7 @@ I'm passionate about building scalable and fast applications with great technolo
 
 :rocket: https://play.google.com/store/apps/details?id=com.trea.trea_host_gh
 
-:rocket: https://frail-petticoat-elk.cyclic.app/login.html
-
-:rocket: https://tricky-long-johns-wasp.cyclic.cloud/
+:rocket: https://slansetmedicalcenter.com/
 
 :rocket: http://www.hidayapharm.com/
 
