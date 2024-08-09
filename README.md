@@ -1,5 +1,6 @@
-I am a graduate from the University for Development Studies with a bachelor degree in Computer Science. I have three plus(3+) years of experience in web development and two plus (2+) years of experience in mobile development.
-I'm passionate about building scalable and fast applications with great technologies and experiences. I excel at working with stakeholders and team members to identify and solve problems, taking ownership of development and challenges from start to finish. My goal is to excel in whatever I do.
+A devoted backend developer with three years of experience developing web-based SaaS applications. I thrive in competitive team environments and bring creativity and rational problem-solving skills to high-pressure situations. I am excited to work with forward-thinking innovators in web development and SaaS solutions.
+
+I am currently learning Solidity for Smart Contracts and honing my CSS skills to complement my backend knowledge and achieve full-stack developer mastery.
 
 
 
@@ -10,7 +11,7 @@ I'm passionate about building scalable and fast applications with great technolo
 
 *FRAMEWORKS*
 
-:boom: Angular, API, Bootstrap, ExpressJS, Flutter, Json, Laravel, NodeJS, NestJS, ReactJS
+:boom: API, Bootstrap, ExpressJS, Flutter, Json, Laravel, Node.js, Nest.js, React.js
 
 *DATABASES*
 
@@ -40,7 +41,9 @@ I'm passionate about building scalable and fast applications with great technolo
 
 *LEARNING*
 
-:books: Mastering DevOps
+:books: Mastering CSS
+
+:books: DevOps
 
 :books: Solidity
 
