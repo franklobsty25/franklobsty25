@@ -19,11 +19,11 @@ I am currently learning Solidity for Smart Contracts and honing my CSS skills to
 
 *WORKING EXPERIENCES*
 
-:man_office_worker: I am currently working with Bento Africa as a Backend Engineer
+:man_office_worker: I worked with Bento Africa as a Backend Engineer
 
 :man_office_worker: I worked with Trea Digital as a Mobile developer
 
-:man_office_worker: I worked as a Freelancer
+:man_office_worker: I worked on Fiverr as a Freelancer
 
 :man_office_worker: I worked with National Service as a System Administrator
 
