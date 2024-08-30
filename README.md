@@ -1,8 +1,6 @@
-A devoted backend developer with three years of experience developing web-based SaaS applications. I thrive in competitive team environments and bring creativity and rational problem-solving skills to high-pressure situations. I am excited to work with forward-thinking innovators in web development and SaaS solutions.
+A dedicated software developer with three years of experience developing web and mobile-based SaaS applications. I thrive in competitive team environments and bring creativity and rational problem-solving skills to high-pressure situations. I am excited to work with forward-thinking innovators in web development and SaaS solutions.
 
-I am currently learning Solidity for Smart Contracts and honing my CSS skills to complement my backend knowledge and achieve full-stack developer mastery.
-
-
+I am a lifelong learner, consistently updated with industry trends and advancements. Currently, I am learning Solidity for smart contracts and exploring blockchain technology (Web3).
 
 
 *LANGUAGES*
@@ -21,11 +19,13 @@ I am currently learning Solidity for Smart Contracts and honing my CSS skills to
 
 :man_office_worker: I worked with Bento Africa as a Backend Engineer
 
-:man_office_worker: I worked with Trea Digital as a Mobile developer
+:man_office_worker: I worked with TREA Digital as a Mobile developer
+
+:man_office_worker: I worked with Eastern Royal as a Mobile developer
 
 :man_office_worker: I worked on Fiverr as a Freelancer
 
-:man_office_worker: I worked with National Service as a System Administrator
+:man_office_worker: I worked with National Service as a Systems Administrator
 
 
 *PORTFOLIOS*
@@ -41,9 +41,7 @@ I am currently learning Solidity for Smart Contracts and honing my CSS skills to
 
 *LEARNING*
 
-:books: Mastering CSS
-
-:books: DevOps
+:books: Mastering DevSecOps
 
 :books: Solidity
 
