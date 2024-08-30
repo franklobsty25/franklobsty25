@@ -1,4 +1,4 @@
-A dedicated software developer with three years of experience developing web and mobile-based SaaS applications. I thrive in competitive team environments and bring creativity and rational problem-solving skills to high-pressure situations. I am excited to work with forward-thinking innovators in web development and SaaS solutions.
+A dedicated software developer with three years of experience developing web and mobile-based SaaS applications. I thrive in competitive team environments and bring creativity and rational problem-solving skills to high-pressure situations. I am excited to work with forward-thinking innovators in web and mobile development and SaaS solutions.
 
 I am a lifelong learner, consistently updated with industry trends and advancements. Currently, I am learning Solidity for smart contracts and exploring blockchain technology (Web3).
 
