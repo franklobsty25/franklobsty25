@@ -36,7 +36,7 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 :rocket: https://slansetmedicalcenter.com/
 
-:rocket: http://www.hidayapharm.com/
+:rocket: https://hidayapharm.com/
 
 
 *LEARNING*
