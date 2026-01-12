@@ -30,10 +30,6 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 *PORTFOLIOS*
 
-:rocket: [Payroll and HRM](https://www.bento.africa/)
-
-:rocket: [Slanset Medical Center](https://slansetmedicalcenter.com/)
-
 :rocket: [Hidaya Pharmacy](https://hidayapharm.com/)
 
 :rocket: [GFA Football](https://football.scoutweaver.com/login)
@@ -43,6 +39,10 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 :rocket: [Carepick GH](https://carepickghana.com/)
 
 :rocket: [Virtual Career Counselor](https://apps.apple.com/us/app/virtual-career-counselor/id6746735604)
+
+:rocket: [Payroll and HRM](https://www.bento.africa/)
+
+:rocket: [Slanset Medical Center](https://slansetmedicalcenter.com/)
 
 
 *LEARNING*
