@@ -55,9 +55,9 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 *SOCIAL*
 
-:star: https://www.linkedin.com/in/frank-kodie-9957b42a/
+:star: [LinkedIn](https://www.linkedin.com/in/frank-kodie-9957b42a/)
 
-:star: https://twitter.com/kodieadu
+:star: [X](https://x.com/kodieadu)
 
 
 *CONTACT*
