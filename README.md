@@ -1,4 +1,4 @@
-A dedicated software developer with three years of experience developing web and mobile-based SaaS applications. I thrive in competitive team environments and bring creativity and rational problem-solving skills to high-pressure situations. I am excited to work with forward-thinking innovators in web and mobile development and SaaS solutions.
+A dedicated software developer with five years of experience developing web and mobile-based SaaS applications. I thrive in competitive team environments and bring creativity and rational problem-solving skills to high-pressure situations. I am excited to work with forward-thinking innovators in web and mobile development and SaaS solutions.
 
 I am a lifelong learner, consistently updated with industry trends and advancements. Currently, I am learning Solidity for smart contracts and exploring blockchain technology (Web3).
 
@@ -32,11 +32,17 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 :rocket: https://www.bento.africa/
 
-:rocket: https://play.google.com/store/apps/details?id=com.trea.trea_host_gh
+:rocket: [https://apps.apple.com/us/app/virtual-career-counselor/id6746735604]
 
 :rocket: https://slansetmedicalcenter.com/
 
 :rocket: https://hidayapharm.com/
+
+:rocket: https://football.scoutweaver.com/login
+
+:rocket: https://coach.scoutweaver.com/login
+
+:rocket: https://carepickghana.com/
 
 
 *LEARNING*
