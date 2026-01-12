@@ -40,7 +40,7 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 :rocket: [Virtual Career Counselor](https://apps.apple.com/us/app/virtual-career-counselor/id6746735604)
 
-:rocket: [Payroll and HRM](https://www.bento.africa/)
+:rocket: [Payroll and HRM](https://apps.apple.com/ng/app/bento-africa/id1473686223)
 
 :rocket: [Slanset Medical Center](https://slansetmedicalcenter.com/)
 
