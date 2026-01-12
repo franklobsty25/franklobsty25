@@ -30,19 +30,19 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 *PORTFOLIOS*
 
-:rocket: https://www.bento.africa/
+:rocket: [Payroll and HRM](https://www.bento.africa/)
 
-:rocket: [https://apps.apple.com/us/app/virtual-career-counselor/id6746735604]
+:rocket: [Slanset Medical Center](https://slansetmedicalcenter.com/)
 
-:rocket: https://slansetmedicalcenter.com/
+:rocket: [Hidaya Pharmacy](https://hidayapharm.com/)
 
-:rocket: https://hidayapharm.com/
+:rocket: [GFA Football](https://football.scoutweaver.com/login)
 
-:rocket: https://football.scoutweaver.com/login
+:rocket: [GFA Coaching](https://coach.scoutweaver.com/login)
 
-:rocket: https://coach.scoutweaver.com/login
+:rocket: [Carepick GH](https://carepickghana.com/)
 
-:rocket: https://carepickghana.com/
+:rocket: [Virtual Career Counselor](https://apps.apple.com/us/app/virtual-career-counselor/id6746735604)
 
 
 *LEARNING*
