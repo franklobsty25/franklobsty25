@@ -36,6 +36,8 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 :rocket: [GFA Coaching](https://coach.scoutweaver.com/login)
 
+:rocket: [Learning Resources](https://resource.scoutweaver.com/)
+
 :rocket: [Carepick GH](https://carepickghana.com/)
 
 :rocket: [Virtual Career Counselor](https://apps.apple.com/us/app/virtual-career-counselor/id6746735604)
