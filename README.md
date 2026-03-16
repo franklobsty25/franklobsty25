@@ -19,6 +19,8 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 :man_office_worker: I'm currently working with BenchFive as a Backend Engineer
 
+:man_office_worker: I worked with Cyclux consult as a Full-stack Engineer
+
 :man_office_worker: I worked with Bento Africa as a Backend Engineer
 
 :man_office_worker: I worked with TREA Digital as a Mobile developer
