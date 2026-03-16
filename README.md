@@ -17,6 +17,8 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 *WORKING EXPERIENCES*
 
+:man_office_worker: I'm currently working with BenchFive as a Backend Engineer
+
 :man_office_worker: I worked with Bento Africa as a Backend Engineer
 
 :man_office_worker: I worked with TREA Digital as a Mobile developer
