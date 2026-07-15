@@ -9,7 +9,7 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 *FRAMEWORKS*
 
-:boom: API, Bootstrap, ExpressJS, Flutter, Json, Laravel, Node.js, Nest.js, React.js
+:boom: API, Bootstrap, ExpressJS, Flutter, JSON, Laravel, Node.js, Nest.js, React.js
 
 *DATABASES*
 
@@ -17,7 +17,9 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 *WORKING EXPERIENCES*
 
-:man_office_worker: I worked with Cyclux consult as a Full-stack Engineer
+:man_office_worker: I am currently working with Benchfive as a Backend Engineer
+
+:man_office_worker: I worked with Cyclux Consult as a Full-stack Engineer
 
 :man_office_worker: I worked with Bento Africa as a Backend Engineer
 
@@ -27,7 +29,7 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 :man_office_worker: I worked on Fiverr as a Freelancer
 
-:man_office_worker: I worked with National Service as a Systems Administrator
+:man_office_worker: I worked with the National Service as a Systems Administrator
 
 
 *PORTFOLIOS*
@@ -48,12 +50,16 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 :rocket: [Kargonet](https://mykargonet.com/)
 
+:rocket: [Testoria](https://suite.testoria.benchfive.org/)
+
 
 *LEARNING*
 
 :books: Mastering DevSecOps
 
 :books: Solidity
+
+:books: AI
 
 
 
@@ -67,6 +73,8 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 *CONTACT*
 
 :email: frankkodie@yahoo.com
+
+:email: frankkodieaduopoku@gmail.com
 
 
 
