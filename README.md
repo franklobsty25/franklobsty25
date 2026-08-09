@@ -34,6 +34,8 @@ I am a lifelong learner, consistently updated with industry trends and advanceme
 
 *PORTFOLIOS*
 
+:rocket: [Ozapp](https://buyozapp.com/)
+
 :rocket: [Hidaya Pharmacy](https://hidayapharm.com/)
 
 :rocket: [GFA Football](https://football.scoutweaver.com/login)
